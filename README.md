@@ -1,7 +1,7 @@
 <h1 align="center">👋 ¡Hola! Soy StreetxFivem</h1>
 
 <p align="center">
-  🧑‍💻 Programador apasionado por el desarrollo de scripts para <strong>FiveM</strong>, <strong>frontend web</strong> y más.<br>
+  🧑‍💻 Programador apasionado por el desarrollo de scripts para <strong>FiveM</strong>,  y más.<br>
   🔥 Siempre aprendiendo, creando y compartiendo.
 </p>
 
