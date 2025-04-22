@@ -41,7 +41,7 @@
 <h2 align="center">📈 Estadísticas de GitHub</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StreetxFivem&show_icons=true&theme=radical&hide_border=true" alt="StreetxFivem GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=StreetxFivem&show_icons=true&theme=radical&hide_border=true&hide_title=true" alt="GitHub Stats" />
 </p>
 
 
