@@ -37,11 +37,18 @@
 
 ---
 
-### 📊 Estadísticas
+
+<h2 align="center">📊 Mis estadísticas en GitHub</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StreetxFivem&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=StreetxFivem&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StreetxFivem&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="47%"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=StreetxFivem&theme=radical&hide_border=true" alt="GitHub Streak" width="95%" />
+</p>
+
 
 ---
 
