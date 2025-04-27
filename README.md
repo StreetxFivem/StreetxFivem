@@ -43,15 +43,12 @@
 
 ---
 
-## 📊 Mis Estadísticas
+## 🐍 Mi Snake Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StreetxFivem&show_icons=true&theme=radical&hide_border=true&hide_title=true" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StreetxFivem&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StreetxFivem&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-</div>
+<p align="center">
+  <img src="https://github.com/StreetxFivem/StreetxFivem/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
 
 ---
 
