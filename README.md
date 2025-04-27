@@ -43,13 +43,13 @@
 
 ---
 
-## 🐍 Mi Snake Activity
+## 🚀 Stats rápidas
 
 <p align="center">
-  <img src="https://github.com/StreetxFivem/StreetxFivem/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://img.shields.io/github/followers/StreetxFivem?label=Seguidores&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/StreetxFivem?label=Estrellas&style=for-the-badge" />
+  <img src="https://img.shields.io/github/commit-activity/y/StreetxFivem?label=Commits%20al%20año&style=for-the-badge" />
 </p>
 
-
----
 
 <h4 align="center">✨ Gracias por visitar mi espacio creativo. ¡Nos vemos en la próxima línea de código! ✨</h4>
