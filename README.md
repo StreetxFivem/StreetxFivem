@@ -43,13 +43,46 @@
 
 ---
 
-## 🚀 Stats rápidas
+## 🚀 Mis Habilidades
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/StreetxFivem?label=Seguidores&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/StreetxFivem?label=Estrellas&style=for-the-badge" />
-  <img src="https://img.shields.io/github/commit-activity/y/StreetxFivem?label=Commits%20al%20año&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JS-%F0DB4F?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/Lua-%232C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
+  <img src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 </p>
+
+---
+
+## 🧩 Proyecto Destacado
+
+**AdminAviso**: El sistema de avisos para administradores en **FiveM**, creado con ESX y optimizado para tu servidor. ¡Una herramienta indispensable para mantener el orden!
+
+[Ver Proyecto](https://github.com/StreetxFivem/AdminAviso)
+
+---
+
+## 💡 Frase que me define
+
+> **"El código no es solo lógica, es arte. Cada línea es una pincelada."**  
+> *- StreetxFivem*  
+
+---
+
+## 🎮 Actividad Reciente
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StreetxFivem&theme=radical&hide_border=true&hide_title=true&currStreakNum=ffffff&currStreakLabel=feb5b5" alt="Streak"/>
+  <br><br>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=StreetxFivem&bg_color=20232a&color=61dafb&line=61dafb&point=ffffff&area=true&area_color=61dafb&title_color=61dafb" alt="Actividad Reciente"/>
+</p>
+
+---
+
+<h4 align="center">✨ Gracias por explorar mi espacio. ¡Nos vemos en la próxima línea de código! ✨</h4>
 
 
 <h4 align="center">✨ Gracias por visitar mi espacio creativo. ¡Nos vemos en la próxima línea de código! ✨</h4>
